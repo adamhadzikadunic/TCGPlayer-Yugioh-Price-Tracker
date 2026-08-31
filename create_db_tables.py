@@ -1,5 +1,5 @@
 
-from db_daemon import conn
+from db_conn import conn
 
 
 def create_db_tables():
